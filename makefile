@@ -1,0 +1,4 @@
+all:
+	perl match.pl
+
+
